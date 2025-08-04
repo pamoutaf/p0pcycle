@@ -1,9 +1,10 @@
 ---
 title: Blackhoodie: my experience
-draft: true
+draft: false
 tags:
     - blackhoodie
     - reverse-engineering
+date: 2025-02-14
 ---
  
 Back in September 2024, I went to Hexacon. This is a security conference organized by Synacktiv, mostly focused on reverse engineering and vulnerability researching.
