@@ -47,7 +47,7 @@ I arrived the first day, and I was greeted by Caroline (from Synacktiv) who was 
 
 This was an experience like no other, surrounded by women who are experts in their fields. I learned a lot, learned about myself, learned that I also can do this, and learned that although I have solid background in pentesting, reverse engineering is an entirely different world. But however, this motivated me to continue, and in any spare time I can find, I try to enhance my skills in this field.
 
-![alt text](blackhoodie/im1.png "Day 1: Reversing a simple helloworld binary")
+![alt text](blackhoodie-png/im1.png "Day 1: Reversing a simple helloworld binary")
 
 ## More on Blackhoodie
 From Blackhoodie’s mission page:
