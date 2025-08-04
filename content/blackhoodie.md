@@ -49,8 +49,13 @@ This was an experience like no other, surrounded by women who are experts in the
 
 ![alt text](blackhoodie-png/im1.png "Day 1: Reversing a simple helloworld binary")
 
+![alt text](blackhoodie-png/im2.png "Day 3: Reversing a fake iOS VPN application")
+
+![alt text](blackhoodie-png/im3.png "Day 4: My friend Safia and I doing firmware analysis")
+
+
 ## More on Blackhoodie
-From Blackhoodie’s mission page:
+From [Blackhoodie’s mission](https://blackhoodie.re/mission) page:
 
 Blackhoodie mission:
 BlackHoodie is a series of technical trainings aiming to attract more women to the field of cyber security
