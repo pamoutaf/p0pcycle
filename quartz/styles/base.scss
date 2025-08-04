@@ -641,3 +641,27 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+.circular--square { 
+  border-radius: 50%; 
+  height: 150px;
+  width: 150px;
+}
+
+.chitchat {
+  height: auto;
+  width: 150px;
+}
+
+.chitchat-container {
+  display: flex;
+  align-items: center; /* vertically center */
+  gap: 20px; /* spacing between image and text */
+  margin-bottom: 20px;
+}
+
+.chitchat-container img {
+  width: 150px;
+  height: auto;
+  border-radius: 20%;
+}
